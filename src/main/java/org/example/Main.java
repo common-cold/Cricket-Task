@@ -47,7 +47,6 @@ public class Main {
 
     public static void main(String[] args) {
         int maxScore = -1;
-        int index = -1;
         String teamName = null;
         int count = 0;
         String url = "https://api.cuvora.com/car/partner/cricket-data";
